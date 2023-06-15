@@ -35,7 +35,6 @@ export default{
     background-color:lemonchiffon;
     text-align: left;
 }
-
 #seccionAdd{
     text-align: right;
 }
